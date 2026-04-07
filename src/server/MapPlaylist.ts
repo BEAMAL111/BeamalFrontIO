@@ -40,13 +40,13 @@ const frequency: Partial<Record<GameMapName, number>> = {
   BritanniaClassic: 0,
   DeglaciatedAntarctica: 0,
   EastAsia: 0,
-  Europe: 3,
-  EuropeClassic: 3,
-  FalklandIslands: 4,
-  FaroeIslands: 4,
-  FourIslands: 4,
-  GatewayToTheAtlantic: 5,
-  GulfOfStLawrence: 4,
+  Europe: 0,
+  EuropeClassic: 0,
+  FalklandIslands: 0,
+  FaroeIslands: 0,
+  FourIslands: 0,
+  GatewayToTheAtlantic: 0,
+  GulfOfStLawrence: 0,
   Halkidiki: 4,
   Iceland: 4,
   Italia: 6,
@@ -90,6 +90,7 @@ const frequency: Partial<Record<GameMapName, number>> = {
   GreatLakes: 6,
   Beamalia: 50,
   SteinIsland: 50,
+  EastPictora: 50,
 };
 
 const TEAM_WEIGHTS: { config: TeamCountConfig; weight: number }[] = [

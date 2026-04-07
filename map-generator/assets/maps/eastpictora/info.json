@@ -1,0 +1,81 @@
+{
+  "name": "eastpictora",
+  "nations": [
+    {
+      "name": "Sardic Republic",
+      "flag": "gg",
+      "coordinates": [
+        753,
+        1414
+      ]
+    },
+    {
+      "name": "Anderan Consulate",
+      "flag": "mh",
+      "coordinates": [
+        231,
+        1187
+      ]
+    },
+    {
+      "name": "People's Democratic And Free Republic Of North Charon",
+      "flag": "vc",
+      "coordinates": [
+        740,
+        777
+      ]
+    },
+    {
+      "name": "Riverine Empire",
+      "flag": "sb",
+      "coordinates": [
+        354,
+        325
+      ]
+    },
+    {
+      "name": "Steinite Theocracy",
+      "flag": "il",
+      "coordinates": [
+        1058,
+        362
+      ]
+    },
+    {
+      "name": "Charonese Monarchy",
+      "flag": "tk",
+      "coordinates": [
+        925,
+        983
+      ]
+    },
+    {
+      "name": "Evonasrat Mandate",
+      "flag": "re",
+      "coordinates": [
+        543,
+        720
+      ]
+    }
+  ],
+  "metadata": {
+    "author": "",
+    "description": ""
+  },
+  "generatedAt": "2026-04-07T01:27:46.850Z",
+  "map": {
+    "width": 1272,
+    "height": 1648,
+    "num_land_tiles": 1232702
+  },
+  "map4x": {
+    "width": 636,
+    "height": 824,
+    "num_land_tiles": 305281
+  },
+  "map16x": {
+    "width": 318,
+    "height": 412,
+    "num_land_tiles": 74944
+  }
+}
